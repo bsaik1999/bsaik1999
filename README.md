@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Saikrishna B!
 
 - 🎓 Master’s in Industrial and Systems Engineering (Analytics) @ University of Minnesota
-- 💼 Ex-Infosys | Data Engineer | .NET Full Stack Developer
+- 💼 Ex-Infosys | Senior Data Engineer | SAP NATIVE HANA Developer
 - 🔭 Currently building a **Credit Risk Forecasting** system using LSTM & Markov Chains
 - 🌱 Learning advanced time series modeling and deep learning
 - 🧠 Skilled in SQL, Python, PySpark, SAP HANA, and mathematical optimization
