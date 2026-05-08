@@ -40,5 +40,16 @@
 💬 I enjoy discussing:
 Data Engineering • ML Systems • Quantitative Modeling • Optimization • FinTech • Healthcare Analytics • AI Applications
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/sai-krishna-bk?utm_source=chatgpt.com)
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/sai-krishna-bk/)
+
+## 💻 Problem Solving & LeetCode
+
+Actively solving Data Structures, Algorithms, SQL, and optimization problems with a focus on scalable systems, backend engineering, and analytical problem solving.
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/bsaik1999?theme=dark&font=Nunito&ext=heatmap" />
+</p>
+
+🔗 LeetCode Profile: https://leetcode.com/u/bsaik1999/
+
 
